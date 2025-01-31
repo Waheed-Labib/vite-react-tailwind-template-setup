@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className='text-green-600'>
-      template
+      Hello dev !!
     </div>
   )
 }
